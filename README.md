@@ -1,2 +1,2 @@
 Some praticioner level aws security setup.
-Than you can make to your needs.
+Than you can modify to your needs.
