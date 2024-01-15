@@ -74,4 +74,10 @@ That means that if the traffic is initiated from the outside
 
 and is allowed inbound,
 
+a connection to Google account, for example,
+
+it would be denied because,
+
+well, there's no outbound rule that specifically allows it.
+
 then the return traffic will be authorized as well.
