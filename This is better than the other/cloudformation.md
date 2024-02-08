@@ -35,3 +35,9 @@ When complete you can see your ec2 instance that was created using cloudformatio
 
 You can upade your stack to replace the current template 
 ![image](https://github.com/VietTheBarbarian/AWS-Security-Stuff/assets/56415307/fd76144a-1e88-47da-be71-ad6fefb42217)
+
+More complex yaml to build an instance with a elastic IP and security group applied to that instance 
+![image](https://github.com/VietTheBarbarian/AWS-Security-Stuff/assets/56415307/7e231228-f070-4778-af7d-3188b75b045e)
+
+If we have the same instance than the previous instance will be cleanup and deleted
+![image](https://github.com/VietTheBarbarian/AWS-Security-Stuff/assets/56415307/ddec48c2-556f-4149-9e61-e029dd6c436f)
